@@ -55,14 +55,18 @@ Primero tenemos la tabla de tokens, luego de presionar el boton del analizdor no
 
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/281bbefe-2b79-4d04-9240-6834cdba8535)
 
-
+Como siguiente punto tenemos la tabla de atributos dentro del analizador la cual nos presenta tres puntos importantes el primero la accesibilidad, segundo el nombre del atributo y tercero el tipo de dato todo esto tomado al momento de ingresar el codigo y presionar el boton de analizar, esto nos ayuda a saber con que tipo de atributo estamos trabajando como su nombre tambien para diferenciar de una manera mas correcta.
 
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/e3e74a01-2a90-4728-a7cc-81a88fd3e4d1)
+
+Como ultimo punto tenemos tambien la parte en la que el programa analiza la clase con la que estamos trabajando y hace la diferencia a todo el codigo y la excluye para el analisis y mostrarla debajo del boton del analizador y saber cual es la clase con la que estamos trabjando o que se ingreso dentro del codigo.
 
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/8f415f5c-0c74-43ae-af35-044420f1dc25)
 
 
 # Solucion de Algunos Problemas
+
+El programa esta realmente optimizado para ingresar la mayor cantidad de variables como tambien tipos, por lo que es muy inusual que se puedan llegar a presentar problemas pero uno de ellos puede llegar a ser al momento de ingresar el codigo dentro del analizador ya que este deber de ser ingresado con una cierta logica de programacion para que el analizador haga la lectura de la mejor manera otro problema que se puede llegar a presentar seria con la tabla de atributos ya que esta debe llegar a reconocer el mayor tipo de atributos posibles.
 
 
 # Contactos
