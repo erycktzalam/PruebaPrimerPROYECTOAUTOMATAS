@@ -4,7 +4,7 @@ A continuación veremos una breve explicacion sobre el funcionamiento del progra
 
 # MANUAL DE USUARIO
 
-![image](https://github.com/MarioMR81/PruebaPrimerPROYECTOAUTOMATAS/assets/91577396/1c712457-5ac1-4ff5-ac3f-005e347c031f)
+![image](https://github.com/MarioMR81/PruebaPrimerPROYECTOAUTOMATAS/assets/91577396/f3608411-4803-49fe-b4a6-265c39ae155a)
 
 
 # Indice
