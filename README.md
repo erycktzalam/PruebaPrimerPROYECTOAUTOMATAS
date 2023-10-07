@@ -31,6 +31,12 @@ Ahora conoceremos mas sobre el funcionamiento del programa o del analizador lexi
 
 Brindar el mayor conocimiento sobre las reglas que se implementan al momento de realizar un analizador lexico para que el codigo pueda tener una muy buena lecturar y dicho codigo pueda ser representado con sus estados y tambien con su lectura dentro del analizador lexico asi para que el usuario tenga el entendimiento de que se esta programando y que resulta luego de cada linea de codigo.
 
+Reconocer el porque es necesario implementar un analizador lexico para clases, ya que este puede llegar a ser de una gran utilidad dentro de la programacion porque es de una gran ayuda para que el usuario tenga un mejor entendimiento de porque se programo algo anteriormente o porque esta programando eso, ya que las descripciones ayuda a que el usuario entienda para que sirve cada parte del codigo, desde una funcion hasta la clase que se utilizo.
+
+Entender mas sobre la implementacion y desarrollo de las reglas de un analizador lexico, ya que estas son muy importantes seguirlas para tener una programacion adecuada dentro de cualquier programa que se quiera realizar desde el mas pequeño al mas grande, ya que esto nos ayuda a tener o desarrollar una mejor logica y ademas de llevar un orden adecuado del codigo y saber que se esta haciendo en un futuro.
+
+Desarrollar un mayor entendimiento sobre como se desarrolla un analizador lexico en el lenguaje de Java, ademas de una implementacion grafica completa del programa para que el usuario logre manejarlo de una manera mas facil y rapida, tambien llegar a comprender los estados de las clases para que estas tengan un mejor entendimiento y se logre saber porque se esta en ese estado dentro de la clase.
+
 # Descripcion de Uso de las funciones del Programa
 
 
