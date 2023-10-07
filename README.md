@@ -39,6 +39,16 @@ Desarrollar un mayor entendimiento sobre como se desarrolla un analizador lexico
 
 # Descripcion de Uso de las funciones del Programa
 
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/528b8f56-d5e7-46e5-96e8-87f578c3b2f1)
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/7713a0fe-21bc-488d-8e8f-af4bd174ce4d)
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/281bbefe-2b79-4d04-9240-6834cdba8535)
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/e3e74a01-2a90-4728-a7cc-81a88fd3e4d1)
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/8f415f5c-0c74-43ae-af35-044420f1dc25)
+
 
 # Solucion de Algunos Problemas
 
