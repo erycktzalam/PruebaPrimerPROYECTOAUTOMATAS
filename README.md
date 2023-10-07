@@ -43,11 +43,19 @@ Como primer paso tenemos la pantalla inicial del programa en la cual podemos lle
 
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/5029226c-e9e1-45b0-9c9e-7952f1b5f2fe)
 
+Como primer paso tenemos al analizador en el recuadro debemos de ingresar el codigo que se desea analizar, por lo que ingresarmos el codigo con sus respectivas clases, variables tipos, llaves etc. Luego debemos de presionar el boton de analizar y hara la lectura de todo el codigo sin importar el codigo ingresado por el usuario, el codigo deber ser ingresado en el cuadro de texto luego debemos de presionar el boton de analizar.
+
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/528b8f56-d5e7-46e5-96e8-87f578c3b2f1)
+
+Luego de presionar el boton de analizar el analizador nos mostrara el cuadro de texto del codigo con dos recuadros mas el primero la tabla de tokens segundo la tabla de tributos los cuales contendran primero el analisis de las palabras, funciones utilizadas en el cuadro en donde se ingreso el codigo asi sucesecivamente se mostrar en ambos recuadros lo ingresado.
 
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/7713a0fe-21bc-488d-8e8f-af4bd174ce4d)
 
+Primero tenemos la tabla de tokens, luego de presionar el boton del analizdor nos desplagara esta lista la cual nos mostrara el lexema y el Patron del codigo ingresado, esto nos ayuda a reconocer de que manera funciona el codigo o cual es la funcion de dichas variables como clases tambien, por lo que el lexama muestra la variable o parte del codigo y el lexema muestra el patron de dicha parte del codigo o funcion.
+
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/281bbefe-2b79-4d04-9240-6834cdba8535)
+
+
 
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/e3e74a01-2a90-4728-a7cc-81a88fd3e4d1)
 
