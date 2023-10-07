@@ -30,5 +30,7 @@ Contactos
 
 Automatas y Lenguajes Formales Universidad Mariano Galvez Facultad de Ingenieria en Sistemas 
 
+
 Mario Quiñonez 7690-21-2086
+
 Erick Tzalam 7690-20-12192
