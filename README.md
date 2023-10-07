@@ -20,6 +20,9 @@ Solucion de Algunos Problemas
 Contactos
 
 # Introducción
+Ahora conoceremos mas sobre el funcionamiento del programa o del analizador lexico, desde como debemos de ingresar el codigo para que la clase sea identificada y el estado tambien, ya que esto ayudara a que el codigo tenga una buena lectura y los patrones utilizados por el usuario sean reconocidos sin ningun fallo tambien el estado del codigo, al igual podremos leer algunos pasos y ver imagenes del funcionamiento del programa para que el usuario tenga un entendimiento claro del programa o analizador lexico, al igual dentro del mismo git encontraremos el codigo del programa y como se fue implementando para lograr el funcionamiento del analizador lexico, tambien veremos algunos objetivos logrados y puestos durante el desarrollo de la aplicacion incluso tambien algunas formas de solucionar problemas que se puedan presentar dentro de la aplicacion.
+
+
 
 # Objetivos
 
