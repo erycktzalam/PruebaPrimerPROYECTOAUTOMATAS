@@ -39,7 +39,7 @@ Desarrollar un mayor entendimiento sobre como se desarrolla un analizador lexico
 
 # Descripcion de Uso de las funciones del Programa
 
-Como primer paso tenemos la pantalla inicial del programa en la cual podemos llegar a presenciar diferentes cuadros de texto como tambien un boton el cual es el inicializador, en este caso al momento de ejecutar el programa se nos presentan estas opciones tales como el analizador, la tabla de tokens y la tabla de atributos.
+Como primer paso tenemos la pantalla inicial del programa en la cual podemos llegar a presenciar diferentes cuadros de texto como tambien un boton el cual es el inicializador, en este caso al momento de ejecutar el programa se nos presentan estas opciones tales como el analizador, la tabla de tokens y la tabla de atributos, dichas opciones dan inicio al programa de una manera grafica total.
 
 ![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/5029226c-e9e1-45b0-9c9e-7952f1b5f2fe)
 
