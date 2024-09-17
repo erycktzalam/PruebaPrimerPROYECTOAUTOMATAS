@@ -19,13 +19,37 @@ public class Analizador {
             "\\bclass\\b", "Palabra reservada class",
             "\\{", "Símbolo llave abre",
             "\\}", "Símbolo llave cierra",
+            "\\(", "Símbolo parentesis abre",
+            "\\)", "Símbolo parentesis cierra",
+            "\\;", "Símbolo punto y coma",
+            "\\:", "Símbolo dos puntos",
+            "\\//", "Comentario",
             "private", "Palabra reservada private",
             "public", "Palabra reservada public",
             "set", "Palabra reservada set",
             "get", "Palabra reservada get",
+            "if", "Palabra reservada if",
+            "for", "Palabra reservada for",
+            "while", "Palabra reservada while",
+            "do while", "Palabra reservada do while",
+            "case", "Palabra reservada case",
+            "new", "Palabra reservada new",
+            "void", "Palabra reservada void",
+            "System", "Palabra reservada System",
+            "out", "Palabra reservada out",
+            "print", "Palabra reservada print",
+            "println", "Palabra reservada println",
+            "next", "Palabra reservada next",
+            "nextint", "Palabra reservada nextint",
+            "Scanner", "Palabra reservada Scanner",
             "int", "Palabra reservada int",
-            "string", "Palabra reservada string",
+            "float", "Palabra reservada float",
+            "double", "Palabra reservada double",
+            "boolean", "Palabra reservada boolean",
+            "String", "Palabra reservada string",
             "decimal", "Palabra reservada decimal",
+            "null", "Palabra reservada null",
+            "this", "Palabra reservada this",
             "\\b[a-zA-Z_][a-zA-Z0-9_]*\\b", "Identificador"
         };
 
@@ -62,14 +86,15 @@ public class Analizador {
     static List<Atributo> getAtributos(List<Token> tokens) {
         List<Atributo> atributos = new ArrayList<>();
         
-        for (int i = 0; i < tokens.size()-3; i++) {
+        for (int i = 0; i < tokens.size()-2; i++) {
             String token = tokens.get(i).getLexema();
             String token2 = tokens.get(i+1).getLexema();
             String token3 = tokens.get(i+2).getLexema();
             String token4 = tokens.get(i+2).getPatron();
 
             if (("private".equals(token) || "public".equals(token))
-                    && ("int".equals(token2) || "string".equals(token2) || "decimal".equals(token2))
+                    && ("int".equals(token2) || "String".equals(token2) || "decimal".equals(token2) || "Scanner".equals(token2)
+                    || "double".equals(token2) || "float".equals(token2))
                     && ("Identificador".equals(token4))) {
                 String accesibilidad = token;
                 String tipo = token2; // tipo de dato sigue al nombre del atributo

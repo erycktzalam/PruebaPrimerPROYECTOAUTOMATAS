@@ -31,10 +31,42 @@ Ahora conoceremos mas sobre el funcionamiento del programa o del analizador lexi
 
 Brindar el mayor conocimiento sobre las reglas que se implementan al momento de realizar un analizador lexico para que el codigo pueda tener una muy buena lecturar y dicho codigo pueda ser representado con sus estados y tambien con su lectura dentro del analizador lexico asi para que el usuario tenga el entendimiento de que se esta programando y que resulta luego de cada linea de codigo.
 
+Reconocer el porque es necesario implementar un analizador lexico para clases, ya que este puede llegar a ser de una gran utilidad dentro de la programacion porque es de una gran ayuda para que el usuario tenga un mejor entendimiento de porque se programo algo anteriormente o porque esta programando eso, ya que las descripciones ayuda a que el usuario entienda para que sirve cada parte del codigo, desde una funcion hasta la clase que se utilizo.
+
+Entender mas sobre la implementacion y desarrollo de las reglas de un analizador lexico, ya que estas son muy importantes seguirlas para tener una programacion adecuada dentro de cualquier programa que se quiera realizar desde el mas pequeño al mas grande, ya que esto nos ayuda a tener o desarrollar una mejor logica y ademas de llevar un orden adecuado del codigo y saber que se esta haciendo en un futuro.
+
+Desarrollar un mayor entendimiento sobre como se desarrolla un analizador lexico en el lenguaje de Java, ademas de una implementacion grafica completa del programa para que el usuario logre manejarlo de una manera mas facil y rapida, tambien llegar a comprender los estados de las clases para que estas tengan un mejor entendimiento y se logre saber porque se esta en ese estado dentro de la clase.
+
 # Descripcion de Uso de las funciones del Programa
+
+Como primer paso tenemos la pantalla inicial del programa en la cual podemos llegar a presenciar diferentes cuadros de texto como tambien un boton el cual es el inicializador, en este caso al momento de ejecutar el programa se nos presentan estas opciones tales como el analizador, la tabla de tokens y la tabla de atributos, dichas opciones dan inicio al programa de una manera grafica total.
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/5029226c-e9e1-45b0-9c9e-7952f1b5f2fe)
+
+Como primer paso tenemos al analizador en el recuadro debemos de ingresar el codigo que se desea analizar, por lo que ingresarmos el codigo con sus respectivas clases, variables tipos, llaves etc. Luego debemos de presionar el boton de analizar y hara la lectura de todo el codigo sin importar el codigo ingresado por el usuario, el codigo deber ser ingresado en el cuadro de texto luego debemos de presionar el boton de analizar.
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/528b8f56-d5e7-46e5-96e8-87f578c3b2f1)
+
+Luego de presionar el boton de analizar el analizador nos mostrara el cuadro de texto del codigo con dos recuadros mas el primero la tabla de tokens segundo la tabla de tributos los cuales contendran primero el analisis de las palabras, funciones utilizadas en el cuadro en donde se ingreso el codigo asi sucesecivamente se mostrar en ambos recuadros lo ingresado.
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/7713a0fe-21bc-488d-8e8f-af4bd174ce4d)
+
+Primero tenemos la tabla de tokens, luego de presionar el boton del analizdor nos desplagara esta lista la cual nos mostrara el lexema y el Patron del codigo ingresado, esto nos ayuda a reconocer de que manera funciona el codigo o cual es la funcion de dichas variables como clases tambien, por lo que el lexama muestra la variable o parte del codigo y el lexema muestra el patron de dicha parte del codigo o funcion.
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/281bbefe-2b79-4d04-9240-6834cdba8535)
+
+Como siguiente punto tenemos la tabla de atributos dentro del analizador la cual nos presenta tres puntos importantes el primero la accesibilidad, segundo el nombre del atributo y tercero el tipo de dato todo esto tomado al momento de ingresar el codigo y presionar el boton de analizar, esto nos ayuda a saber con que tipo de atributo estamos trabajando como su nombre tambien para diferenciar de una manera mas correcta.
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/e3e74a01-2a90-4728-a7cc-81a88fd3e4d1)
+
+Como ultimo punto tenemos tambien la parte en la que el programa analiza la clase con la que estamos trabajando y hace la diferencia a todo el codigo y la excluye para el analisis y mostrarla debajo del boton del analizador y saber cual es la clase con la que estamos trabjando o que se ingreso dentro del codigo.
+
+![image](https://github.com/MarioMR81/PrimerPROYECTOAUTOMATAS/assets/91577396/8f415f5c-0c74-43ae-af35-044420f1dc25)
 
 
 # Solucion de Algunos Problemas
+
+El programa esta realmente optimizado para ingresar la mayor cantidad de variables como tambien tipos, por lo que es muy inusual que se puedan llegar a presentar problemas pero uno de ellos puede llegar a ser al momento de ingresar el codigo dentro del analizador ya que este deber de ser ingresado con una cierta logica de programacion para que el analizador haga la lectura de la mejor manera otro problema que se puede llegar a presentar seria con la tabla de atributos ya que esta debe llegar a reconocer el mayor tipo de atributos posibles.
 
 
 # Contactos
